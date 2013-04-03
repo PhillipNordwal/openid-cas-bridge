@@ -15,10 +15,10 @@ cfg_title = "OpenId-Cas-Bridge"
 cfg_log_filename = "/tmp/zBIRDS.log"
 
 # The encryption key used to encrypt the assoc handle statelss data.
-cfg_assoc_encrypt_key = "TH3 BiRbS A5E T4STY!THIS~TIME 000F YeaR%"
+cfg_assoc_encrypt_key = "Replace this to be unique for your install!"
 
 # A constant to add to the nonce.
-cfg_nonce_constant = "BIRDS"
+cfg_nonce_constant = "WWUCS Replace this to be unique for your install!"
 
 # Cas parse function. This is specific to the CAS you are bridging.
 #   * Expects a 'token' representing the user name token.
